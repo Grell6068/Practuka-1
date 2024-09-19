@@ -4,8 +4,8 @@ using namespace std;
 int main() {
     int water = 15;
     int coffe = 9;
-    int waterPrice = 20;
-    int coffePrice = 60;
+    float waterPrice = 20.55;
+    float coffePrice = 60.25;
     int sum = water + coffe;
     
     cout << "Кількість та ціна води: " << water << " " << "шт." << " " << waterPrice << " " << "грн" << "\t";
